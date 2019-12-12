@@ -11,9 +11,10 @@ In the terminal run
 
 ```batch
 git clone https://github.com/Gorbagzog/TP_data_analysis.git
+cd TP_data_analysis
 ```
 
-to cone this repository on your computer.
+to clone this repository on your computer.
 
 Then launch the notebook with:
 
