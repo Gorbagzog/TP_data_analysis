@@ -18,5 +18,5 @@ to cone this repository on your computer.
 Then launch the notebook with:
 
 ```batch
-jupyter notebook HVC_data_analysis.ipnb
+jupyter notebook HVC_data_analysis.ipynb
 ```
